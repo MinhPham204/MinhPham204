@@ -44,22 +44,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 📝 [Task Manager SaaS](https://github.com/MinhPham204/TaskManager)
-*A multi-tenant project management platform with strict data isolation.*
-- **Architecture:** Engineered with strict Role-Based Access Control (RBAC) and JWT/Redis authentication flows.
-- **Performance:** Optimized workload reporting APIs using **MongoDB Aggregation Pipelines (`$facet`)** and ESR **Compound Indexes**, cutting query time from 81ms to 2ms.
-- **Asynchronous:** Integrated **BullMQ** for reliable background job processing (email queues, automated reminders).
-
-#### 💻 [Laptop Store with AI Recommendations](https://github.com/MinhPham204/LaptopStore)
-*An e-commerce backend powering real-time interactions and intelligent suggestions.*
-- **AI Integration:** Engineered a **Python/Flask** microservice utilizing the **KNN algorithm** for personalized product recommendations.
-- **Real-time:** Implemented **Socket.io** for two-way live communication (order status, live comments).
-- **Data Modeling:** Architected complex product variant schemas in **PostgreSQL**.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
