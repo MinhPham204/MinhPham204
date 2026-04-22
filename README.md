@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Minh Pham 👋</h1>
-<h3 align="center">Backend Developer | Final-year SE Student @ PTIT</h3>
+<h3 align="center">Software Developer | Final-year SE Student @ PTIT</h3>
 
 <p align="center">
   I'm a Software Engineering student with a strong passion for <b>Backend architectures, scalable systems, and database optimization</b>. I love diving deep into the server-side to build robust APIs and eliminate performance bottlenecks.
@@ -15,11 +15,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Final-year Software Engineering student at **Posts and Telecommunications Institute of Technology (PTIT)**, HCMC (GPA: 3.2/4.0).
-- 💡 **Focus:** Building high-performance, multi-tenant SaaS platforms and optimizing complex database queries. 
-- 🚀 **Recent Highlight:** Successfully eliminated in-memory sorting in a MongoDB database using ESR Compound Indexes, reducing query execution time by **40x (from 81ms to 2ms)**.
-- 🇬🇧 **Languages:** Professional working proficiency in English (TOEIC: 775).
-- ⚡ **Fun Fact:** When I'm not optimizing code, you'll probably find me managing my Chelsea FC squad in eFootball or climbing the ranks in Arena of Valor!
+- 👯 I’m looking to collaborate on **scalable backend systems, robust RESTful APIs, or open-source Node.js projects.**
+- 🤔 I’m looking for help with **image processing techniques for my upcoming IoT "Smart Watering System" embedded project.**
+- 📫 How to reach me: **pnhatminh2004@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **My numerology life path is 22/4 ("Master Builder"), which perfectly explains my obsession with software architecture!**
 
 ---
 
@@ -70,5 +70,5 @@
 ---
 <p align="center">
   <i>Let's connect and build something awesome!</i> <br>
-  📫 Reach me at: <b>[Điền Email Của Bạn Vào Đây]</b>
+  📫 Reach me at: <b>pnhatminh2004@gmail.com</b>
 </p>
